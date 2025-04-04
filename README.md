@@ -15,11 +15,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/cypress" height="40" alt="cypress logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
 
 
